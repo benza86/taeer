@@ -1,0 +1,828 @@
+[
+	
+	{
+     "title":"مسلسلات تركية ",
+    "drawable":"",
+    "submenu":"مسلسلات تركية ",
+    "iap":false,
+    "tabs":[
+	        {
+        "title":" حلقات الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UC48uOgKYE_w6jKCFEvPhAvw",
+          "channel"
+
+        ]
+      },  
+	          {
+        "title":" ملخصات الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UCZdAk-DlHElz07ICp0dopGg",
+          "channel"
+
+        ]
+      },  
+	           {
+        "title":" مسلسل - نصيبي وقسمتك الجزء الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLk7aOjrbxuora5M5CUD9qEthOvGHYg3sM",
+          "playlist"
+
+        ]
+      },  
+	            {
+        "title":" حب أبيض و اسود موسم 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_vWkWmfEsWn9m3MMXpnbY7k",
+          "playlist"
+
+        ]
+      },  
+	    	            {
+        "title":" حب أبيض و اسود موسم 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_tgYfgGzvY0Dkd9NDw5-CA1",
+          "playlist"
+
+        ]
+      },  
+	    	            {
+        "title":" حب أبيض و اسود موسم 3",
+        "provider":"youtube",
+        "arguments":[
+          "PLg-6q1JyoZ_ui_3NmCU27NbYxiFjPUbSM",
+          "playlist"
+
+        ]
+      },  
+	                {
+        "title":" موقع قصة عشق",
+        "provider":"youtube",
+        "arguments":[
+          "UCqTeJEp9GX-OXwvbr-2HCfQ",
+          "channel"
+
+        ]
+      },  
+	       
+	               {
+        "title":" المسلسل الجديد  الحب الأول ",
+        "provider":"youtube",
+        "arguments":[
+          "UCYA7TeBudluc2lW1XsSW6qw",
+          "channel"
+
+        ]
+      },  
+	       
+	    
+	              {
+        "title":" مسلسل تركي قلب المدينة ",
+        "provider":"youtube",
+        "arguments":[
+       "PLtOkhQ8cs_FVtP1NE90PB-0drqf1MZEuZ",
+          "playlist"
+
+        ]
+      },  
+	     
+	              {
+        "title":" حكاية سمر",
+        "provider":"youtube",
+        "arguments":[
+       "PLWZvTEKLCxNp_36OhhNryx4FV6Cc6cgyQ",
+          "playlist"
+
+        ]
+      },  
+	     
+	        
+	      
+
+
+	
+	        {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC-rpg9WyN7JC98JwtlQBLmw",
+          "channel"
+
+        ]
+      },
+
+	    {
+        "title":" ملخصات مترجمة",
+        "provider":"youtube",
+        "arguments":[
+          "UCNnqAtgF-wb0zAjUZiQ_wUA",
+          "channel"
+
+        ]
+      },
+	  	  	   {
+        "title":"ملخص الحلقة القادمة : خربوش",
+        "provider":"youtube",
+        "arguments":[
+          "UCv_zCUvMwAjzn7CLxyn1RfA",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+,
+	{
+     "title":"مسلسلات تونسية",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية قديمة",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" صيد الريم ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHpJ0m_dOQjboLQMQ3vwwSu",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"اخوة و زمان",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHa84B0GLrdJ__EGtq0T7ZH",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"منامة عروسة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGyit87xCTuDAVomofaReQw",
+          "playlist"
+
+        ]
+      },  
+	          {
+        "title":"الحجامة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGx3tjBXYx5fWCvUSn0LJ-U",
+          "playlist"
+
+        ]
+      },  
+	             {
+        "title":"جنون القايلة 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnE0j4PKOSpr_Vcf15PbxR5F",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":"جنون القايلة 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnEQcgLWgjQWM8AMcgvQlqjO",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":" يوميات امرأة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnExftBXfotv5_HciPJsr_Am",
+          "playlist"
+
+        ]
+      },  
+	                  {
+        "title":"غالية",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFoTXOoidCKzEXN7CByKdM8",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"عودة المنيار",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFo6dzj6dxc9R9yvEq6VAsJ",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"عنقود الغضب",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH0TCee32EgWBGFNnlLWleX",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"دار الخلاعة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnE4_0T09UwEIS80TMXsif_y",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"غالية",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFoTXOoidCKzEXN7CByKdM8",
+          "playlist"
+
+        ]
+      }
+	    ,  
+	                  {
+        "title":"غادة",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGaiEETp1XKwtlENPMLzBHM",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":" الليالي البيض",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnG99uEYDpDDWCL0ItuDNge7",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":"سيتكوم : لافاج",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGwG787joljhMda8MNT7c0Q",
+          "playlist"
+
+        ]
+      }
+	     ,  
+	                  {
+        "title":"الدوار ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnG-2SF2l0EWtTpyraaTlU-B",
+          "playlist"
+
+        ]
+      }
+	      ,  
+	                  {
+        "title":"الدوامة ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHnFkLMUdsPPN7JuIGwbeHS",
+          "playlist"
+
+        ]
+      }
+	      ,  
+	                  {
+        "title":"الخطاب على الباب ",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnHHBKZsWsmeYT2u9QAb2CkJ",
+          "playlist"
+
+        ]
+      }
+	    
+	    
+	    ]
+	}
+	,
+	{
+     "title":"الحلقات  ",
+    "drawable":"",
+    "submenu":"شوفلي حل",
+    "iap":false,
+    "tabs":[
+	
+	        {
+        "title":"موسم 2005",
+        "provider":"youtube",
+        "arguments":[
+          "PL6TjelGzBJrWK9Avy3doBfhc_VjKToZ1d",
+          "playlist"
+
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"موسم 2006",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGstKc69LrO3xZwdN0LKhYR",
+          "playlist"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" موسم 2007",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFi-AOO638jza_yYGzef663",
+          "playlist"
+
+        ]
+      } ,
+	        {
+        "title":" موسم 2008",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH7XzkWjOUlsDIR45WCZjIH",
+          "playlist"
+
+        ]
+      }
+	       ,
+	    
+		        {
+        "title":" موسم 2009",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFIqdlGYw5_xYpQpiPooQeg",
+          "playlist"
+
+        ]
+      }     
+  ]
+  }
+,
+	
+	
+		{
+     "title":"أولاد مفيدة",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eouxGWNj5_CTrBrjl6RnIXO",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ermf8wpxfGnxW--TsNGrUJs",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqjxesVEePk4VKSkFKUdnWy",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+		{
+     "title":" مكتوب",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLvuiC-ftvBUXDX5WO0VYGBZHqYkFExR42",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PL-WZ0q0SEje04IUQJnyrA-lcvFh_O5gZw",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eryEq2U4ZJP_tmoM42e0XG0",
+          "playlist"
+
+        ]
+      }
+	,
+	             {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eohI7nndcB86uu8WYSdjqEf",
+          "playlist"
+
+        ]
+      }
+	    ]
+	}
+	,
+		{
+     "title":" مسلسلات",
+    "drawable":"",
+    "submenu":" مسلسلات تونسية جديدة ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":"شورب",
+        "provider":"youtube",
+        "arguments":[
+          "PLpUf-wIbS_hr1HqUFIpTAudDJLWsxvUFF",
+          "playlist"
+
+        ]
+      }  ,
+	        {
+        "title":"تاج الحاضرة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epQXmmQvIuZAi4fm3dBzI9C",
+          "playlist"
+
+        ]
+      }, 
+	
+	        
+        {
+        "title":"7 صبايا",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuI7lJrcvBcvw5Jf_B8XEskS",
+          "playlist"
+
+        ]
+      }
+	        
+	       
+	    ]
+	}
+	,
+		{
+     "title":"دنيا اخري",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+	
+	
+	
+
+ {
+   "title":"الحلقات من الموقع",
+    "drawable":"",
+    "submenu":"الريح في البريمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.nessma.tv/replay/%D8%A7%D9%84%D8%B1%D9%8A%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D8%A9/"
+        ]
+      }
+    ]
+
+  },		
+	
+	{
+     "title":"الحلقات و الملخصات",
+    "drawable":"",
+    "submenu":"الريح في البريمة",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":" كواليس",
+        "provider":"youtube",
+        "arguments":[
+          "UCWppcJqAUTWp_03PYAMdi_g",
+          "channel"
+
+        ]
+      }
+	       ,
+	        {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCNnqAtgF-wb0zAjUZiQ_wUA",
+          "channel"
+
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"الممثلين",
+        "provider":"youtube",
+        "arguments":[
+          "UC2kPpXHR--jAZRCr7hAH0uQ",
+          "channel"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCoLL3ONrJB8JwoTngL4nSGg",
+          "channel"
+
+        ]
+      } 
+	     
+  ]
+  }
+,
+	
+ {
+   "title":"الحلقات من الموقع",
+    "drawable":"",
+    "submenu":"ورثة و سلايف",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.nessma.tv/replay/%D9%88%D8%B1%D8%AB%D8%A9-%D9%88%D8%B3%D9%84%D8%A7%D9%8A%D9%81/"
+        ]
+      }
+    ]
+
+  },	
+	{
+     "title":"الحلقات و الملخصات",
+    "drawable":"",
+    "submenu":"ورثة و سلايف",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":"أبرز الاحداث",
+        "provider":"youtube",
+        "arguments":[
+          "UC7zV5XdtS0r4mqEF71URjyQ",
+          "channel"
+
+        ]
+      },
+	    
+	   
+	        {
+        "title":"الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCoLL3ONrJB8JwoTngL4nSGg",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"2 الحلقات",
+        "provider":"youtube",
+        "arguments":[
+          "UCHk-FyrEMHbg-zJBniExMrQ",
+          "channel"
+
+        ]
+      }
+	   
+	   
+  ]
+  }
+	
+	,
+	{
+     "title":"برامج تونسية ",
+    "drawable":"",
+    "submenu":"برامج تونسية  ",
+    "iap":false,
+    "tabs":[
+	           
+	    
+
+	       {
+        "title":" أمور جدية Best of",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epfpsrO1b0bQKPx7aCaOefT",
+          "playlist"
+
+        ]
+      },     
+	   {
+        "title":" نهار الاحد ميهمك في حد Best of",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epu44Ney9OceataP6TfOuhZ",
+          "playlist"
+
+        ]
+      },    
+	       {
+        "title":"DTEP ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erfE6Dn7iC5Agp89IdCB1J3",
+          "playlist"
+
+        ]
+      },   
+	  
+	    
+	     
+
+       {
+        "title":"L'Emission",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKSCc2G5RXLQ5h2h_xQ77Vb",
+          "playlist"
+
+        ]
+      }
+  ]
+  }
+
+	
+	,
+
+	
+	
+	{
+     "title":"قائمة المسلسلات",
+    "drawable":"",
+    "submenu":"مسلسلات عربية",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":" لعنة كارما",
+        "provider":"youtube",
+        "arguments":[
+          "PL7kBI63vN2IK51Cd5mFaKTwSt3OyIGvKA",
+          "playlist"
+
+        ]
+      }
+	    ,
+	        {
+        "title":"عوالم خفية: عادل امام",
+        "provider":"youtube",
+        "arguments":[
+          "PL-B8gtvyiv77qtajkUWav1nceoQqyeoFA",
+          "playlist"
+
+        ]
+      }
+	     ,
+	        {
+        "title":" يحيي الفخرانى: بالحجم العائلى ",
+        "provider":"youtube",
+        "arguments":[
+          "PLSjAYmnIUfsEB9ESc1kttvfQm3sR2do54",
+          "playlist"
+
+        ]
+      } 
+	 ,
+	        {
+        "title":"مسلسل أيوب",
+        "provider":"youtube",
+        "arguments":[
+          "PLEywN28C5m6pfnGt9sdUEwXX5yUSqZNZT",
+          "playlist"
+
+        ]
+      } 
+	     
+  ]
+  }
+,
+	
+	
+	
+	{
+     "title":"البث المباشر",
+    "drawable":"",
+    "submenu":"نسمة بث مباشر",
+    "iap":false,
+    "tabs":[
+	   {
+        "title":"البث المباشر",
+        "provider":"webview",
+        "arguments":[
+"https://www.nessma.tv/live"
+	]
+      }
+	       
+   
+  ]
+  }
+	
+	,
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.medooapps.taaerm.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
