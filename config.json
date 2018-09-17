@@ -1,189 +1,22 @@
 [
 	
-	{
-     "title":"مسلسلات تركية ",
+ {
+   "title":"الطائر",
     "drawable":"",
-    "submenu":"مسلسلات تركية ",
+    "submenu":"مسلسل",
     "iap":false,
     "tabs":[
-	        {
-        "title":" حلقات الطائر المبكر",
-        "provider":"youtube",
+      {
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "UC48uOgKYE_w6jKCFEvPhAvw",
-          "channel"
-
-        ]
-      },  
-	          {
-        "title":" ملخصات الطائر المبكر",
-        "provider":"youtube",
-        "arguments":[
-          "UCZdAk-DlHElz07ICp0dopGg",
-          "channel"
-
-        ]
-      },  
-	           {
-        "title":" مسلسل - نصيبي وقسمتك الجزء الثاني",
-        "provider":"youtube",
-        "arguments":[
-          "PLk7aOjrbxuora5M5CUD9qEthOvGHYg3sM",
-          "playlist"
-
-        ]
-      },  
-	            {
-        "title":" حب أبيض و اسود موسم 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_vWkWmfEsWn9m3MMXpnbY7k",
-          "playlist"
-
-        ]
-      },  
-	    	            {
-        "title":" حب أبيض و اسود موسم 2",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_tgYfgGzvY0Dkd9NDw5-CA1",
-          "playlist"
-
-        ]
-      },  
-	    	            {
-        "title":" حب أبيض و اسود موسم 3",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_ui_3NmCU27NbYxiFjPUbSM",
-          "playlist"
-
-        ]
-      },  
-	                {
-        "title":" موقع قصة عشق",
-        "provider":"youtube",
-        "arguments":[
-          "UCqTeJEp9GX-OXwvbr-2HCfQ",
-          "channel"
-
-        ]
-      },  
-	       
-	               {
-        "title":" المسلسل الجديد  الحب الأول ",
-        "provider":"youtube",
-        "arguments":[
-          "UCYA7TeBudluc2lW1XsSW6qw",
-          "channel"
-
-        ]
-      },  
-	       
-	    
-	              {
-        "title":" مسلسل تركي قلب المدينة ",
-        "provider":"youtube",
-        "arguments":[
-       "PLtOkhQ8cs_FVtP1NE90PB-0drqf1MZEuZ",
-          "playlist"
-
-        ]
-      },  
-	     
-	              {
-        "title":" حكاية سمر",
-        "provider":"youtube",
-        "arguments":[
-       "PLWZvTEKLCxNp_36OhhNryx4FV6Cc6cgyQ",
-          "playlist"
-
-        ]
-      },  
-	     
-	        
-	      
-
-
-	
-	        {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC-rpg9WyN7JC98JwtlQBLmw",
-          "channel"
-
-        ]
-      },
-
-	    {
-        "title":" ملخصات مترجمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
-
+          "http://www.footmercato.net/club/c3479_club-africain/calendrier"
         ]
       }
-   
-  ]
+    ]
+
   }
-,
-	
-	
-	
-
-	
-	
-	{
-     "title":"قائمة المسلسلات",
-    "drawable":"",
-    "submenu":"مسلسلات عربية",
-    "iap":false,
-    "tabs":[
-	    {
-        "title":" لعنة كارما",
-        "provider":"youtube",
-        "arguments":[
-          "PL7kBI63vN2IK51Cd5mFaKTwSt3OyIGvKA",
-          "playlist"
-
-        ]
-      }
-	    ,
-	        {
-        "title":"عوالم خفية: عادل امام",
-        "provider":"youtube",
-        "arguments":[
-          "PL-B8gtvyiv77qtajkUWav1nceoQqyeoFA",
-          "playlist"
-
-        ]
-      }
-	     ,
-	        {
-        "title":" يحيي الفخرانى: بالحجم العائلى ",
-        "provider":"youtube",
-        "arguments":[
-          "PLSjAYmnIUfsEB9ESc1kttvfQm3sR2do54",
-          "playlist"
-
-        ]
-      } 
-	 ,
-	        {
-        "title":"مسلسل أيوب",
-        "provider":"youtube",
-        "arguments":[
-          "PLEywN28C5m6pfnGt9sdUEwXX5yUSqZNZT",
-          "playlist"
-
-        ]
-      } 
-	     
-  ]
-  }
-,
+	,	
 	
 	
 	
