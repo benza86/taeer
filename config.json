@@ -6,6 +6,7 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
+
 	        {
         "title":" حلقات الطائر المبكر",
         "provider":"youtube",
@@ -20,6 +21,15 @@
         "provider":"youtube",
         "arguments":[
           "UCZdAk-DlHElz07ICp0dopGg",
+          "channel"
+
+        ]
+      },  
+	           {
+        "title":"2 ملخصات الطائر المبكر",
+        "provider":"youtube",
+        "arguments":[
+          "UCPJQoZl7IBOHSIhjT0JuUGQ",
           "channel"
 
         ]
@@ -130,7 +140,22 @@
   }
 ,
 	
-	
+	 {
+    "title":"اخر حلقة تم بثها هي الحلقة 11 وكل من ينشر الحلقة 12 فهو يكذب",
+    "drawable":"",
+    "submenu":"شاهد المسلسل باللغة التركية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.startv.com.tr/dizi/erkenci-kus/bolumler/11-bolum"
+        ]
+      }
+    ]
+
+  },	
 	
 
 	
@@ -177,6 +202,60 @@
         "arguments":[
           "PLEywN28C5m6pfnGt9sdUEwXX5yUSqZNZT",
           "playlist"
+
+        ]
+      } 
+	     
+  ]
+  }
+,
+
+		
+
+	
+	
+	{
+     "title":"قائمة البرامج",
+    "drawable":"",
+    "submenu":"برامج ",
+    "iap":false,
+    "tabs":[
+	    {
+        "title":"معكم منى الشاذلي",
+        "provider":"youtube",
+        "arguments":[
+          "UCcucB5aJ0xmv5OEKQwzAUjw",
+          "channel"
+
+        ]
+      }
+	    ,
+	        {
+        "title":"Fares Shady ",
+        "provider":"youtube",
+        "arguments":[
+          "UCRWf_hR8lsQwnKhp8P82_bg",
+          "channel"
+
+        ]
+      }
+	     ,
+	        {
+        "title":" الحكاية ",
+        "provider":"youtube",
+        "arguments":[
+          "UC1F59TWMyxxVKI-8sWaI5nA",
+          "channel"
+
+        ]
+      } 
+	 ,
+	        {
+        "title":" Fozi Mozi ",
+        "provider":"youtube",
+        "arguments":[
+          "UCb9PvQ2Gv9FDIlwZubVgTaQ",
+          "channel"
 
         ]
       } 
