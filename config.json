@@ -6,7 +6,15 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
+    {
+        "title":" حلقات من 1 الي 11",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
+          "playlist"
 
+        ]
+      },  
 	        {
         "title":" حلقات الطائر المبكر",
         "provider":"youtube",
