@@ -1,7 +1,7 @@
 [
 	
 	{
-     "title":"الحلقة 12 ستكون متوفرة هنا  ",
+     "title":"الحلقة 12  متوفرة هنا  ",
     "drawable":"",
     "submenu":"مسلسلات تركية ",
     "iap":false,
@@ -167,7 +167,7 @@
 ,
 	
 	 {
-    "title":"اخر حلقة تم بثها هي الحلقة 11 ",
+    "title":"اخر حلقة تم بثها هي الحلقة 12 ",
     "drawable":"",
     "submenu":"الموقع الرسمي للقناة التركية يبين ذلك",
     "iap":false,
@@ -176,7 +176,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.startv.com.tr/dizi/erkenci-kus/bolumler/11-bolum"
+          "https://www.startv.com.tr/dizi/erkenci-kus/son-bolum"
         ]
       }
     ]
