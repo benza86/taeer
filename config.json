@@ -7,7 +7,7 @@
     "iap":false,
     "tabs":[
     {
-        "title":" حلقات من 1 الي 11",
+        "title":" حلقات من 1 الي 12",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
@@ -29,6 +29,24 @@
         "provider":"youtube",
         "arguments":[
           "UCZdAk-DlHElz07ICp0dopGg",
+          "channel"
+
+        ]
+      },  
+	        {
+        "title":"الحلقات باللغة التركية",
+        "provider":"youtube",
+        "arguments":[
+          "UC64mzacdticc87zH870bQGA",
+          "channel"
+
+        ]
+      },  
+	        {
+        "title":"مسلسلات تركية حصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UC5AFDvcGk83DcMGwPlRrscA",
           "channel"
 
         ]
