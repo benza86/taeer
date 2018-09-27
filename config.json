@@ -33,6 +33,15 @@
 
         ]
       },  
+	       {
+        "title":"الحلقات  متنوعة",
+        "provider":"youtube",
+        "arguments":[
+          "UC1VhGkdtk7z_KxB6wtQ-XkQ",
+          "channel"
+
+        ]
+      },  
 	        {
         "title":"الحلقات باللغة التركية",
         "provider":"youtube",
