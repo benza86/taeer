@@ -7,11 +7,20 @@
     "iap":false,
     "tabs":[
     {
-        "title":" حلقات من 1 الي 12",
+        "title":" حلقات من 1 الي 13",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
           "playlist"
+
+        ]
+      },  
+	         {
+        "title":"مسلسلات تركية حصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UC5AFDvcGk83DcMGwPlRrscA",
+          "channel"
 
         ]
       },  
@@ -51,15 +60,7 @@
 
         ]
       },  
-	        {
-        "title":"مسلسلات تركية حصرية",
-        "provider":"youtube",
-        "arguments":[
-          "UC5AFDvcGk83DcMGwPlRrscA",
-          "channel"
-
-        ]
-      },  
+	   
 	           {
         "title":"2 ملخصات الطائر المبكر",
         "provider":"youtube",
