@@ -6,15 +6,7 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
-    {
-        "title":" حلقات من 1 الي 13",
-        "provider":"youtube",
-        "arguments":[
-          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
-          "playlist"
-
-        ]
-      },  
+   
 	         {
         "title":"مسلسلات تركية حصرية",
         "provider":"youtube",
@@ -24,7 +16,15 @@
 
         ]
       },  
-	      
+	       {
+        "title":" حلقات من 1 الي 14",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
+          "playlist"
+
+        ]
+      },  
 	          {
         "title":" ملخصات الطائر المبكر",
         "provider":"youtube",
@@ -188,9 +188,9 @@
 ,
 	
 	 {
-    "title":"اخر حلقة تم بثها هي الحلقة 12 ",
+    "title":"موقع القناة الناقلة للمسلسل ",
     "drawable":"",
-    "submenu":"الموقع الرسمي للقناة التركية يبين ذلك",
+    "submenu":"الموقع الرسمي",
     "iap":false,
     "tabs":[
       {
