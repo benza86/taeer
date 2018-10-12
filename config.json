@@ -11,7 +11,7 @@
         "title":"مسلسلات تركية حصرية",
         "provider":"youtube",
         "arguments":[
-          "UC5AFDvcGk83DcMGwPlRrscA",
+          "UC-DHwxp-VdKODqvNK2KMtCg",
           "channel"
 
         ]
@@ -30,6 +30,24 @@
         "provider":"youtube",
         "arguments":[
           "UCZdAk-DlHElz07ICp0dopGg",
+          "channel"
+
+        ]
+      },  
+	       {
+        "title":"مسلسلات تركية",
+        "provider":"youtube",
+        "arguments":[
+          "UCaB-qCSg9sdwT3np0fg0xiA",
+          "channel"
+
+        ]
+      },  
+	           {
+        "title":"مسلسلات اعلانات",
+        "provider":"youtube",
+        "arguments":[
+          "UCjtxwNQKJxTImvgqatLT2EA",
           "channel"
 
         ]
@@ -55,24 +73,8 @@
       },  
 	   
 	   
-	           {
-        "title":"2 ملخصات الطائر المبكر",
-        "provider":"youtube",
-        "arguments":[
-          "UCPJQoZl7IBOHSIhjT0JuUGQ",
-          "channel"
-
-        ]
-      },  
-	        {
-        "title":" حلقات الطائر المبكر",
-        "provider":"youtube",
-        "arguments":[
-          "UC48uOgKYE_w6jKCFEvPhAvw",
-          "channel"
-
-        ]
-      },
+	  
+	
 	           {
         "title":" مسلسل - نصيبي وقسمتك الجزء الثاني",
         "provider":"youtube",
