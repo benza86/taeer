@@ -6,15 +6,7 @@
     "submenu":"مسلسلات تركية ",
     "iap":false,
     "tabs":[
-	           {
-        "title":"مسلسلات تركية",
-        "provider":"youtube",
-        "arguments":[
-          "UCaB-qCSg9sdwT3np0fg0xiA",
-          "channel"
-
-        ]
-      },  
+	          
    
 	         {
         "title":"مسلسلات تركية حصرية",
