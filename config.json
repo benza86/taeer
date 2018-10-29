@@ -7,7 +7,15 @@
     "iap":false,
     "tabs":[
 	          
-   
+            {
+        "title":"مسلسلات تركية ",
+        "provider":"youtube",
+        "arguments":[
+          "UC2oMua1mDkcOy5yHJu5LddA",
+          "channel"
+
+        ]
+      },  
 	         {
         "title":"مسلسلات تركية حصرية",
         "provider":"youtube",
