@@ -33,15 +33,24 @@
 
         ]
       },    
-            {
-        "title":"مسلسلات تركية ",
+	        {
+        "title":"3 مسلسلات",
         "provider":"youtube",
         "arguments":[
-          "UC2oMua1mDkcOy5yHJu5LddA",
+          "UCuKcQP82lKz7G-lSvbkyPCw",
           "channel"
 
         ]
-      },  
+      },    
+             {
+        "title":"4 مسلسلات",
+        "provider":"youtube",
+        "arguments":[
+          "UCj_1Cf99CPbDc8GYLltoDag",
+          "channel"
+
+        ]
+      },    
 	         {
         "title":"مسلسلات تركية حصرية",
         "provider":"youtube",
@@ -61,15 +70,7 @@
 
         ]
       },  
-	       {
-        "title":" حلقات من 1 الي 16",
-        "provider":"youtube",
-        "arguments":[
-          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
-          "playlist"
-
-        ]
-      },  
+	
 	          {
         "title":" ملخصات الطائر المبكر",
         "provider":"youtube",
@@ -80,16 +81,6 @@
         ]
       },  
 
-	           {
-        "title":"مسلسلات اعلانات",
-        "provider":"youtube",
-        "arguments":[
-          "UCjtxwNQKJxTImvgqatLT2EA",
-          "channel"
-
-        ]
-      },  
-	
 	        {
         "title":"الحلقات باللغة التركية",
         "provider":"youtube",
